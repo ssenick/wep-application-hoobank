@@ -1,1 +1,1 @@
-DEMO: https://wep-application-hoobank.ssenick
+DEMO: http://wep-application-hoobank.ssenick.fun
